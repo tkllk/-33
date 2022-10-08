@@ -1,0 +1,4 @@
+print('Нахождение минимального значения')
+n=input(":").split()
+n=[int(x) for x in n ]
+print(min(n))
